@@ -1,6 +1,10 @@
 {
   "packs": [
-    "GBTDPack.json"
+    "GBTDPack.json",
+    "autismpepe.json",
+    "frenworld.json",
+    "PepeTheFrogByAliZare.json",
+    "MrBlanket.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
